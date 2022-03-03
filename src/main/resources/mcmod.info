@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cratesandcases",
+  "name": "Crates And Cases",
+  "description": "A mod that add crates and cases.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Xen0Xys"],
+  "credits": "Made by Xen0Xys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
